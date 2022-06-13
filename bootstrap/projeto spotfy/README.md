@@ -1,4 +1,5 @@
 ### In this project I made a copy of Spotify first page
 
 
-![spotify](https://user-images.githubusercontent.com/106289869/173363072-c735f2ad-9f64-4984-8ee7-c9eb173614fc.JPG)
+
+![spotify](https://user-images.githubusercontent.com/106289869/173363337-a0e333d1-f144-4300-9323-4b9d4dfa9612.JPG)
