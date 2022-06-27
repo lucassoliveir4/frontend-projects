@@ -1,4 +1,4 @@
-##In this projet was made an slider project using te carrousel class on the bootstrap 
+## In this projet was made an slider project using te carrousel class on the bootstrap 
 
 
 
